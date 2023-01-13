@@ -37,7 +37,6 @@ function Welcome(props)
                     backgroundColor:'purple',
                 }}>
                     <UIButton/>
-                    <UIButton/>
                 </View>
             </ImageBackground>
         </View>
