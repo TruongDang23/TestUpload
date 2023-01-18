@@ -38,6 +38,7 @@ function Welcome(props)
                 }}>
                     <UIButton/>
                 </View>
+                <Text>Hello World</Text>
             </ImageBackground>
         </View>
     )
